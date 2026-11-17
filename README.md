@@ -126,8 +126,8 @@ Expand the downloaded and put it under the <b>./dataset</b> folder.
     │   ├─images
     │   └─masks
     └─valid
-         ├─images
-         └─masks
+        ├─images
+        └─masks
 </pre>
 <br>
 <b>Viral-Pneumonia-Chest-X-Ray Statistics</b><br>
