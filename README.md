@@ -152,9 +152,9 @@ The folder structure of the original train dataset is as follows, but it contain
     │   └─NORMAL2-IM-1423-0001.jpeg
     │	
     └─VIRAL      ( 1,345 files)
-       ├─person80_virus_150.jpeg
+        ├─person80_virus_150.jpeg
 ...
-       └─person1609_virus_2791.jpeg
+        └─person1609_virus_2791.jpeg
 </pre>
 <b>Step 1</b><br>
 We generated a 512x512-pixel cropped PNG master images from the JPEG files in 
